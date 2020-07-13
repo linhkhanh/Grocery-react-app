@@ -1,7 +1,7 @@
 import React from 'react';
-import SideBar from './SideBar';
-import ListOfItems from './ListOfITems';
-import FormAddItem from './FormAddItem';
+import SideBar from './Components/SideBar';
+import ListOfItems from './Components/ListOfITems';
+import FormAddItem from './Components/FormAddItem';
 import {Dad, Mom, Son, Daughter} from './Data';
 
 class App extends React.Component {
